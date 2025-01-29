@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  <h1>Olá! Eu sou o João Felipe</h1>
+</div>  
+<div align="center">
+  <a href="https://github.com/Pedrohss2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrohss2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohss2&layout=compact&langs_count=7&theme=onedark&bg_color=0D1117"/>
+    
+</div>
 
-<!--
-**Joao-Felipe-coding/Joao-Felipe-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+<div align="center">
+  <h1 >IDEs usadas:</h1>
+</div>  
 
-Here are some ideas to get you started:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode"/>
+ </div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+ <h1>Estudando: </h1>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,spring,mysql,maven,hibernate"/>
+  </a>
+</p>  
