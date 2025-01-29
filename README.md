@@ -23,6 +23,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,node,nosql"/>
+    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,nodejs,react,nosql"/>
   </a>
 </p>  
