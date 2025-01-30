@@ -6,7 +6,6 @@ Atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) na Unicesumar -
 </div>
     
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Felipe-coding&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Felipe-coding&layout=compact&langs_count=7&theme=onedark&bg_color=0D1117"/>
 </div>
  
