@@ -27,6 +27,5 @@ Atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) na Unicesumar -
   </a>
 </p>  
 
-<div align="center">
  <h1>Projetos: </h1>
-</div>
+
