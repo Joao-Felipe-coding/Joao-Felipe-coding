@@ -8,7 +8,7 @@ Atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) na Unicesumar -
  
 <div align="center">
   <h1 >IDEs usadas:</h1>
-    <img src="https://skillicons.dev/icons?i=vscode,mariadb"/>
+    <img src="https://skillicons.dev/icons?i=vscode,nosql"/>
 </div>   
 
  <div align="center">
@@ -17,7 +17,7 @@ Atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) na Unicesumar -
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,mariadb"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,mysql"/>
   </a>
 </p>  
 
