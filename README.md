@@ -17,7 +17,7 @@ Atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) na Unicesumar -
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,mysql"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,mariadb"/>
   </a>
 </p>  
 
